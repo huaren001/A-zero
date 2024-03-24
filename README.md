@@ -4,8 +4,8 @@
 作者github : https://github.com/huaren001
 
 
-**版本            : V1.0**
+**版本            : V0.1.9**
 
->"A zero"人脸识别认证GUI系统，每周会定时维护项目，修补更新
+>"A zero"图像转文字GUI系统，不定时维护项目，修补更新
 
 原版链接：https://github.com/huaren001/A-zero
