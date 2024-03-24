@@ -8,4 +8,6 @@
 
 >"A zero"图像转文字GUI系统，不定时维护项目，修补更新
 
+![image](https://github.com/huaren001/A-zero/blob/main/002902.png)
+
 原版链接：https://github.com/huaren001/A-zero
